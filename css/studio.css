@@ -1,0 +1,23 @@
+.humble{
+    background-color: aqua;
+    height: 100px;
+    width: 150px;
+}
+.studio p:first-child{
+    background-color: yellow;
+}
+.studio p:last-child{
+    background-color: yellowgreen;
+}
+.interval h3:nth-child(odd){
+    background-color: goldenrod;
+    
+}
+.interval h3:nth-child(even) {
+background-color: blue;
+}
+.vickey p:first-letter{
+    font-size: 60px;
+    margin-left: 40px;
+
+}

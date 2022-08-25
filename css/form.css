@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+form{
+    width: 700px;
+    margin-top: 50px;
+}
+
+
+
+form div label{
+    display: block;
+    
+}
+form div input{
+    margin-bottom: 10px;
+    width: 100px;
+    padding: 7px 0 0 5px;
+    border-radius: 5px;
+}
+button{
+    width: 100%;
+    padding: 7px;
+    border: none;
+}
+button:hover{
+    background-color: blue;
+}
+
+.damiola{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    transition:width 2s, height 4s ;
+}
+.samuel{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    
+}
